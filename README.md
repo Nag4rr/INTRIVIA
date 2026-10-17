@@ -12,3 +12,6 @@ Pesan: Semoga rangkaian INTRIVIA 2026 ke depannya terus berjalan lancar tanpa ke
 ## Kesan Pesan Cluster 18 Sejauh Ini
 Suasana di Cluster 18 sangat suportif dan asyik. Teman-teman satu cluster cepat membaur, responsif di grup, dan saling membantu saat mengerjakan penugasan. Kakak-kakak pendamping juga sangat sabar, jelas dalam menyampaikan informasi, dan selalu mengayomi kami.
 Pesan: Semoga kekompakan dan pertemanan di Cluster 18 tidak berhenti setelah INTRIVIA 2026 selesai, tetapi terus berlanjut untuk saling mendukung selama masa perkuliahan di FILKOM nanti.
+
+## Harapan Kuliah
+Selama menempuh studi di Teknik Informatika, saya berharap dapat mengasah kemampuan problem solving dan keterampilan teknis secara maksimal, mulai dari pengembangan perangkat lunak, pengelolaan sistem, hingga eksplorasi teknologi seperti kecerdasan buatan (Artificial Intelligence). Semoga saya bisa aktif berkolaborasi dalam berbagai proyek maupun riset di lingkungan FILKOM UB, menemukan mentor serta rekan tim yang sefrekuensi, dan lulus tepat waktu sebagai talenta IT yang kompeten.
